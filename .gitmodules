@@ -1,0 +1,12 @@
+[submodule "LevelCrush.Store.Frontend"]
+	path = LevelCrush.Store.Frontend
+	url = https://github.com/LevelCrush/LevelCrush.Store.Frontend
+[submodule "LevelCrush.Store.Admin"]
+	path = LevelCrush.Store.Admin
+	url = https://github.com/LevelCrush/LevelCrush.Store.Admin
+[submodule "LevelCrush.CMS"]
+	path = LevelCrush.CMS
+	url = https://github.com/LevelCrush/LevelCrush.CMS
+[submodule "LevelCrush.Auth"]
+	path = LevelCrush.Auth
+	url = https://github.com/LevelCrush/LevelCrush.Auth
